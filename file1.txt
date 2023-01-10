@@ -13,3 +13,5 @@ adding the line 14
 adding the line 15
 google cloud
 do cloud
+adding aws cloud
+adding azure cloud
